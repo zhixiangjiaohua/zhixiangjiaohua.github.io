@@ -45,11 +45,7 @@ a:hover{
     background-color:saddlebrown;
     padding-top: 100px;
     overflow: hidden;
-<<<<<<< HEAD
     padding-left: 200px;
-=======
-    padding-left: 300px;
->>>>>>> f438d3e96c859866f064e6f7a50990530d0224e0
 
 }
 
@@ -57,11 +53,7 @@ a:hover{
     float: left;
     display: block;
     height: 200px;
-<<<<<<< HEAD
     width: 470px;
-=======
-    width: 300px;
->>>>>>> f438d3e96c859866f064e6f7a50990530d0224e0
     border: 5px solid black;
     border-radius: 5px;
 }
@@ -77,22 +69,14 @@ font-size: 20px;
     background-color:saddlebrown;
     padding-top: 30px;
     overflow: hidden;
-<<<<<<< HEAD
     padding-left: 200px;
-=======
-    padding-left: 300px;
->>>>>>> f438d3e96c859866f064e6f7a50990530d0224e0
 }
 
 .content2 img{
     float: left;
     display: block;
     height: 200px;
-<<<<<<< HEAD
     width: 470px;
-=======
-    width: 300px;
->>>>>>> f438d3e96c859866f064e6f7a50990530d0224e0
     border: 5px solid black;
     border-radius: 5px;
 }
